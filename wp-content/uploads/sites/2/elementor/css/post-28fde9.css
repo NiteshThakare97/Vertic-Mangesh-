@@ -6545,6 +6545,12 @@ svg) {
     font-size: 24px;
 }
 
+@media only screen and (min-width: 1200px) and (max-width: 1360px) {
+    .elementor-28 .elementor-element.elementor-element-5466c5c1 {
+        padding: 0% 7%;
+    }
+}
+
 @media only screen and (min-width: 1000px) and (max-width: 1200px) {
     .elementor-52 .elementor-element.elementor-element-29e19cad {
         --padding-top: 0em;
